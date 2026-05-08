@@ -1,0 +1,2 @@
+# LinkShield
+Create link shortcut
